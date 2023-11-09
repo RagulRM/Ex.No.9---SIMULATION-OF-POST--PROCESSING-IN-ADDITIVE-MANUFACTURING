@@ -50,8 +50,8 @@
 ![2](https://github.com/lokeshrahulv/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118423842/d2b9b462-ad21-4963-8edc-9fe248ade50d)
 ![3](https://github.com/lokeshrahulv/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118423842/a7203554-e34f-4e1f-96c8-d635f2b59054)
 
-### Name: LOKESH RAHUL V V
-### Register Number: 212222100024
+### Name: Ragul R
+### Register Number: 212222100040
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
